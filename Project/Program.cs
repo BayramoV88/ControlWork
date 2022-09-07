@@ -5,7 +5,7 @@
         void ControlWork()
         {
             
-            string[] array = {"Три", ":)", "+", "Kazan", "Семь", "Архитектор", "NY"};
+            string[] array = {"Три", ":)", "+", "Kazan", "Жизнь", "Архитектор", "NY"};
             Console.Write("[");
 
             for (int i = 0; i < array.Length; i++)
